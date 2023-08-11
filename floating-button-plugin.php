@@ -1,7 +1,7 @@
 <?php
 /**
- * Plugin Name: CTA Floating Button Plugin
- * plugin URI:https://github.com/alireza-sadi/floting-button-plugin
+ * Plugin Name: CTA Floating Button 
+ * plugin URI:https://github.com/alireza-sadi/cta-floting-button-wordpress
  * Description: Adds CTA floating button to your site.support email,phone,webpage.other ways on the way.
  * Version: 1.2
  * Author: Alireza Sadi
